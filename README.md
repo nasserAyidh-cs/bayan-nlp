@@ -59,7 +59,7 @@ Improve Arabic entity boundaries and avoid labeling masking placeholders as enti
 
 - Nasser Ayidh Al shammakh — [@nasserAyidh-cs](https://github.com/nasserAyidh-cs)
 - Fares Sultan Albogami — [@faresfaresfares911-max](https://github.com/faresfaresfares911-max)
-- Firas Rashid Al-Youssef — [@username3](https://github.com/username3)
+- Feras Rashid Al-Youssef — [@feras29sss-cell](https://github.com/feras29sss-cell)
 - 
 ## SDAIA Academy
 
