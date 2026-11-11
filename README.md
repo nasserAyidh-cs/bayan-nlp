@@ -55,6 +55,12 @@ The load test measured `/v1/analyze`, including classification, NER, and search.
 
 Improve Arabic entity boundaries and avoid labeling masking placeholders as entities. Add a standalone service entry point and benchmark the classifier separately.
 
+## Project Team
+
+- Nasser Ayidh Al shammakh — [@nasserAyidh-cs](https://github.com/nasserAyidh-cs)
+- Fares Sultan Albogami — [@faresfaresfares911-max](https://github.com/faresfaresfares911-max)
+- Firas Rashid Al-Youssef — [@username3](https://github.com/username3)
+- 
 ## SDAIA Academy
 
 Project developed as part of the SDAIA Academy Applied NLP program.
