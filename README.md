@@ -63,4 +63,4 @@ Improve Arabic entity boundaries and avoid labeling masking placeholders as enti
 - 
 ## SDAIA Academy
 
-Project developed as part of the SDAIA Academy Applied NLP program(https://github.com/SDAIAAcademy).
+Project developed as part of the SDAIA Academy Applied NLP program[@SDAIA Academy](https://github.com/SDAIAAcademy).
